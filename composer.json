@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kawankoding/laravel-fcm": "^0.2.0"
+    }
+}
